@@ -68,6 +68,6 @@ Power BI dashboard includes:
 
 ![NovaCart Dashboard](Power%20BI/dashboard.png)
 
-## Data Transformation
+## 📊 Dashboard Preview
 
-![Transform Data](Power%20BI/Transform%20Data.png)
+![NovaCart Dashboard](Power%20BI/Transform Data.png)
