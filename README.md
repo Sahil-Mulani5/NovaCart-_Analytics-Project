@@ -62,3 +62,8 @@ Power BI dashboard includes:
 
 **Sahil Mulani**
  Data Analyst
+
+
+ ## 📊 Dashboard Preview
+
+![NovaCart Dashboard](Power%20BI/dashboard.png)
